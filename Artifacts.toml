@@ -1,0 +1,260 @@
+[[Spasm]]
+arch = "aarch64"
+git-tree-sha1 = "3aa16781bbd5f6031c96f3e9a625a30396476266"
+os = "macos"
+
+    [[Spasm.download]]
+    sha256 = "7d6812a8a4b6c2e66c0e251851c29896cb0ebfbb5ea610df5c183447bf02b908"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.aarch64-apple-darwin.tar.gz"
+[[Spasm]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "298091ce053d8c9bd5a6fe6165fb2251d81299a1"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "55dbe63265ae71166bfec8a6bd4480466d02231e5058da9bd2e0d1a1af18fb20"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Spasm]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a6d3172f80f04ba64e661bdad1c2441b39d9e896"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "b016db802ff06e569042f38be5456a9f52e9934c85b226e05b490df92278d454"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Spasm]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "137468a0df0092948e62894a691e96b00e565ef2"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "7f6ee351cc3e3bcfe1678a59130c16d89327042a05c6433b35c461e2b6aebc32"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Spasm]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c88e439d990207429f5d11cb6d3046612c0b92cb"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "49be9ca227d27c4e2cbecd9479bf6b891be670b7c88b056af774a26cdea5aa12"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Spasm]]
+arch = "aarch64"
+git-tree-sha1 = "f10c32eab74a40c8b015218bc69512f0eb1ddf64"
+os = "freebsd"
+
+    [[Spasm.download]]
+    sha256 = "7dfd2d3a068600d56ea0021a03445b4084c58402499f9e3b8c679eec38016a23"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.aarch64-unknown-freebsd.tar.gz"
+[[Spasm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b6382efffe2768089e5f0c5ad8128ca70a63aef8"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "72c38d18ec472ffb027f4cce448576bdc994fd422d6bff12fa003cc050e0839c"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Spasm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1a581594daeed7485ae3053a1e4e4af0c3109c6"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "dff04a106baceeae1b809938a89ae3d8a77efc89ab644403dc95def06c055662"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Spasm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4732d85148ca8dac98f6a0148a688c56e7ecf5cc"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "b868b0c11fb77e8fecf97a16577ca17f05ac178a93949322e10951011b66ccbf"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Spasm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a72ea023ab7c206999ba84fe552afd179a7a6fd8"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "8d149b252b3852857596658bd5e6e9dc44832ee644dbb6af9bf0a2fda3604fc6"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Spasm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "422ae78b0e5b9de818c129972260de4fc2abe54d"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "fd8106c7f5fdbbe9da19ff664af84f668be5305352562691eb6fc9a2f8ce46a2"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Spasm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bde16bf844775528bd704dfca646228657d0775a"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "423aa386a00ca65957d61a3fde81687bc63bbb50caed1d9afd52c15dfc1aa499"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Spasm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c2c53a4049334701beaca8fdce61b92db6dfaf0c"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "9284f40d115a0c32bf8700d164ca4bde445ceb051f7ab10a25539a2a89737eb1"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Spasm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59cdd20acee1f2e5713ca5137a9cbdd99aedc2a1"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "99020d3751f0418cfcb0cde5c571ad05d3521e4b2d8f1e24b412a44fab722261"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Spasm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "afb6be29767aa1e7955dda46a57c8a52bdd5ec30"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "524bc68ea26a9c0dff65587bd37e7f4131e96a07055a565bae02709b699ae0b4"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.i686-linux-gnu-cxx03.tar.gz"
+[[Spasm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4664ac6401f9009579de46bdde2d12ac24835b89"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "31da76cc518eed916673360d7e95d1e4a9f6e4c735a398bf97d97a4704d4adc7"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.i686-linux-gnu-cxx11.tar.gz"
+[[Spasm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6296ac93269970429cfb3a12936a724d4fe4991e"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "15a1b3751e1bd98b061509055cb7759a181403a217c457be983b6e78e178df19"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.i686-linux-musl-cxx03.tar.gz"
+[[Spasm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb15a49f73611a7464172c9ee1c4f3e7bc182bf2"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "d509485cc439873d7e37f8a4f6a56f01b91407e7dc33f0c3f53aceb84e8c29b3"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.i686-linux-musl-cxx11.tar.gz"
+[[Spasm]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "491dcb5fb07c71593f0d785e3d891f8594d11953"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "eb05edcd32bec85bd6d320ef3343207a3c15e9e6bce8f2841b92c02055e367c7"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Spasm]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a007b199c94005d344b87cdd82aa4d9e351aebd3"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "f64883c9bd57adf1aec6eec7f3d1f11a13626b1fbcbc93147038d13b402b458d"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Spasm]]
+arch = "x86_64"
+git-tree-sha1 = "3cb34b653d6d871d69bdd145985dc0885175afd8"
+os = "macos"
+
+    [[Spasm.download]]
+    sha256 = "85bee6d1d6d16194521e7ca7aa263b00986eb2b4fe66dec08bca6c0abbf62371"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.x86_64-apple-darwin.tar.gz"
+[[Spasm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "be30177a033f005a63058dc1ccf00f5dbfa4c9ea"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "9b5f39314337d922ecf62a8571d79065651baa67bf840d6a4b15707752efdb40"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Spasm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6390d576eb7bd8a850b07dc67f1ff0bd6687605a"
+libc = "glibc"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "1a3d5956e377098ec5eac3e8df464f1024d02a0900eb9741fe1dd66a7ca72f79"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Spasm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "52690d47474f82c3c9d4532ba96f873a714df810"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "3b04fa494bd1a2959e878fa0912215e855b852b87eb5c89a6f2d387ddbffa5e3"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Spasm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a890c805f5e92c325f4861a82f3fef2dfd02f8a0"
+libc = "musl"
+os = "linux"
+
+    [[Spasm.download]]
+    sha256 = "9e29c17beaf67f52b7709576688308fbcd4bcf13eb26138042b64673de3710d6"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Spasm]]
+arch = "x86_64"
+git-tree-sha1 = "772d526085a075e91853f04639e4dc2dae326743"
+os = "freebsd"
+
+    [[Spasm.download]]
+    sha256 = "e003901afe3fb56e0c371c72221cc4aa8214b9f042fed1212fc04ea67bb59757"
+    url = "https://github.com/JuliaBinaryWrappers/Spasm_jll.jl/releases/download/Spasm-v1.3.0+0/Spasm.v1.3.0.x86_64-unknown-freebsd.tar.gz"
